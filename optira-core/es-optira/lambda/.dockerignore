@@ -1,0 +1,35 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Build files
+*.egg-info/
+dist/
+build/
+
+# Test files
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Documentation
+*.md
+README*
+
+# Git files
+.git/
+.gitignore
